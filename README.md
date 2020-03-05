@@ -12,8 +12,12 @@ Q3:
 
 a1 = [1,2]
 Q4:
-Document
-|
-html
-|
-head
+  Document
+  |
+  html-------body----img---src
+  |           |
+  head        p---span---text
+   |           |
+   title       text
+   |
+   text
